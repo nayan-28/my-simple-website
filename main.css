@@ -1,4 +1,24 @@
-div {
-    background-color: tomato;
+.blog {
+    text-align: center;
+    background-color: rgb(230, 224, 221);
+}
+
+.first-blog {
+    background-color: blueviolet;
     padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+.second-blog {
+    background-color: rgb(142, 224, 87);
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+.third-blog {
+    background-color: rgb(63, 216, 203);
+    padding: 10px;
+    border-radius: 10px;
 }
